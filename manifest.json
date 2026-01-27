@@ -1,0 +1,20 @@
+{
+  "short_name": "FluxoCaixa",
+  "name": "Fluxo de Caixa Pessoal",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./salario/salario.html",
+  "display": "standalone",
+  "background_color": "#181c24",
+  "theme_color": "#232946"
+}
